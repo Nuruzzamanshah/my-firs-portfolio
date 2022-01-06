@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.top-banner{
+    display: flex;
+    padding-top: 25px;
+   
+}
+span{
+    color: #feb74b;
+}
+.intro{
+    width: 50%;
+    margin-left: 10%;
+}
+.intro p{
+    text-align: justify;
+    margin-left: 3px;
+}
+.intro h1{
+    border-left: 3px solid tomato;
+}
+
+.intro img{
+    width: 80%;
+}
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(red,tomato);
+    color: white;
+    font-weight: 600;
+    padding: 15px 40px;
+    display: inline-block;
+    margin-top: 15px;
+}
+.intro1{
+    text-align: center;
+    font-size: 25px;
+}
+.top{
+    display: flex;
+    margin: 80px;
+}
+.top p{
+    text-align: justify;
+    margin-left: 13px
+}
+.intro2{
+    width: 50%;
+    margin-left: 20px;
+    box-shadow:1px 1px 1px 1px white;
+    border-radius: 20px;
+    background-color: tomato;
+}
+.intro2 img,h3,p{
+    margin-left: 15px;
+}
+.top img{
+    width: 30%;
+}
+.bg{
+    background-color: lavenderblush;
+}
+.bg1{
+    background-color: aliceblue;
+}
+.bg2{
+    background-color: whitesmoke;
+}
+.container{
+    display: flex;
+    margin: 80px;
+}
+.container p{
+    text-align: justify;
+    margin-left: 0px;
+}
+.container img{
+    width: 70%;
+    margin-right: 40px;
+}
+
+.container1{
+    display: flex;
+    margin: 80px; 
+}
+.container1 p{
+    text-align: justify;
+    margin-left: 0px;
+}
+.container1 img{
+    width: 70%;
+    margin-left: 200px;
+}
+.web{
+    text-align: center;
+}
+.web p{
+    text-align: justify;
+}
+.list{
+    display: flex;
+    margin: 80px;
+}
+.list img{
+    width: 20%;
+    padding-top: 27px;
+}
+.list img,h2,p{
+    margin-left: 10%;
+}
+.list2{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px white;
+    margin: 25px;
+}
+.web1{
+    background-color: rgb(218, 177, 177);
+}
+.web2{
+    background-color: rgb(194, 221, 221);
+}
+footer{
+    height: 150px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-top: 35px;
+}
+
